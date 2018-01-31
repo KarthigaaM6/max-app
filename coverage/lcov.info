@@ -1,5 +1,5 @@
 TN:
-SF:D:\max-health\maxhealthcare\server\test.js
+SF:F:\max-app\server\test.js
 FN:18,(anonymous_1)
 FN:31,(anonymous_2)
 FN:44,(anonymous_3)
@@ -436,7 +436,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:D:\max-health\maxhealthcare\server\users\userEntity.js
+SF:F:\max-app\server\users\userEntity.js
 FNF:0
 FNH:0
 DA:1,1
@@ -449,7 +449,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:D:\max-health\maxhealthcare\server\phlebotomist\phlebotomistEntity.js
+SF:F:\max-app\server\phlebotomist\phlebotomistEntity.js
 FNF:0
 FNH:0
 DA:1,1
@@ -462,7 +462,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:D:\max-health\maxhealthcare\server\patients\patientEntity.js
+SF:F:\max-app\server\patients\patientEntity.js
 FNF:0
 FNH:0
 DA:1,1
